@@ -4,6 +4,7 @@
 
 * nx.from_numpy_arrayを使うと、NumPy arrayの隣接行列からグラフが一発で作れる。  
 https://networkx.org/documentation/stable//reference/generated/networkx.convert_matrix.from_numpy_array.html
+* nx.from_numpy_arrayを使ってコードを書き換えた。
 
 ## ノック72
 
