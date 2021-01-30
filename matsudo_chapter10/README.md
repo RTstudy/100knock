@@ -29,3 +29,8 @@
 
 * コサイン類似度: [コサイン類似度](https://mathtrain.jp/cosdistance)
 
+
+## URL
+
+* [万病辞書](http://sociocom.jp/~sociocom/mednlp/index.php/manbyou/)
+* [日本語形態素解析システム JUMAN++ ](http://nlp.ist.i.kyoto-u.ac.jp/index.php?JUMAN%2B%2B)
